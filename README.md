@@ -130,20 +130,6 @@ Technologies I work with and continue to explore.
 
 ---
 
-## GITHUB ANALYTICS
-
-<div align="center">
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=mohd0wais&hide_border=true&background=080B0A&ring=91B9A1&fire=91B9A1&currStreakLabel=91B9A1&sideLabels=9AA99F&currStreakNum=E8EEE9&sideNums=E8EEE9&dates=77877D"/>
-
-</div>
-
-<br/>
-
----
-
 ## BEYOND THE CODE
 
 I believe good engineering comes from curiosity, consistency and the willingness to understand things deeply.
